@@ -1,0 +1,33 @@
+.qualities-img{
+  width:150px;
+}
+
+
+
+.jumbotron{
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
+#proizvodi{
+	margin-right: 5px;
+}
+
+#brend{
+	margin-right: 5px;
+}
+
+#tip_proizvoda{
+	margin-right: 5px;
+}
+
+body {
+	font-family: 'Montserrat Alternates', sans-serif !important;
+}
+
+
+.pagination{
+	float:right;
+}
+
+
